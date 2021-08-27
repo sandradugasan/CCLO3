@@ -1,0 +1,30 @@
+/* custom rule */
+.text-custom {
+  color: #1cb394;
+}
+
+.container i{
+  border-radius: 50%;
+  background: black;
+  display: inline;
+  font-size: 1rem;
+  padding: 15px 20px;
+    
+}
+/* #navbar .container i {
+  font-size: 3rem;
+} */
+
+.footer {
+  font-size: 3rem;
+  padding: 3rem;
+}
+
+.footer i {
+  padding: 2rem;
+}
+
+.logo i {
+  font-size: 2rem;
+}
+
